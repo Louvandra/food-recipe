@@ -208,7 +208,7 @@ const AuthForm = () => {
               />
             </div>
             <button className="w-full py-2 mt-4 text-white bg-indigo-500 rounded-lg hover:bg-indigo-600">
-              Sign Up
+              Sign up
             </button>
           </form>
         </motion.div>
